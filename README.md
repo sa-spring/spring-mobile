@@ -5,6 +5,7 @@ This module contains articles about Spring Mobile
 Run with
 
 ```sh
+mvn package
 java --add-opens java.base/java.lang=ALL-UNNAMED -jar target/spring-mobile-1.0-SNAPSHOT.jar                      
 ```
 
